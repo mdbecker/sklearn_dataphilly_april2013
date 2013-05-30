@@ -1,7 +1,7 @@
 sklearn_dataphilly_april2013
 ============================
 
-sklearn talk for April 16th DataPhilly/PhillyPUG talk based on:
+sklearn talk for April 16th [DataPhilly](http://www.meetup.com/DataPhilly/events/107740582/)/[PhillyPUG](http://www.meetup.com/phillypug/events/107707472/) talk based on:
 http://github.com/jakevdp/sklearn_pycon2013
 &
 http://scikit-learn.github.io/scikit-learn-tutorial/general_concepts.html
